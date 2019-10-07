@@ -5,3 +5,6 @@
 Bonjour
 </BODY>
 </HTML>
+body{
+color : red ;
+}
